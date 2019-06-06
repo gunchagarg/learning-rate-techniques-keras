@@ -4,7 +4,7 @@ Exploring learning rates to improve model performance
 Transfer Learning is a proven method to generate much better results in computer vision tasks. Most of the pretrained architectures (Resnet, VGG, inception, etc.) are trained on ImageNet and depending on the similarity of your data to the images on ImageNet, these weights will need to be altered more or less greatly.
 
 ## Reference
-
+https://towardsdatascience.com/exploring-learning-rates-to-improve-model-performance-in-keras-e37f5e63f16c
 
 ## Differential Learning
 The phrase 'Differential Learning' implies the use of different learning rates on different parts of the network.
